@@ -1,2 +1,2 @@
-# CIsec.github.io
+# CISec.github.io
 The homepage.
